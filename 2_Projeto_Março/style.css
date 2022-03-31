@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(73, 73, 190);
+    text-align: center;
+}
+.main-frase select[id="dias"]{
+
+    text-align: center;
+    
+}
+
+
+h1{ 
+    font-style: normal;
+    color: white;
+    text-align: center;
+
+}
+
+p{ font-style: normal;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+
+}
+
+.inputs input[type="text"]{
+    text-align: center;
+    width: 380px;
+    height: 30px;
+    
+    
+
+}
